@@ -1,2 +1,2 @@
 Detected obstacles,Replanning operations,Final route length (steps),Expanded nodes,Planning time (ms),Reached goal
-"(10, 9)",1,25,147,0.979,True
+"(10, 9)",1,25,147,0.923,True
